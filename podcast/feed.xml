@@ -8,7 +8,7 @@ Each episode covers the biggest AI releases, tools and trends. Then we skip the 
 Hosted by the founder of PlsAutomate.]]></description>
 		<link>https://plsautomate.com</link>
 		<generator>plsautomate pipeline</generator>
-		<lastBuildDate>Wed, 04 Nov 2026 09:12:57 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 10:09:38 GMT</lastBuildDate>
 		<atom:link href="https://alxsmnv.github.io/gallery/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[plsautomate.com]]></author>
 		<copyright><![CDATA[plsautomate.com]]></copyright>
@@ -39,6 +39,8 @@ Hosted by the founder of PlsAutomate.</itunes:summary>
 			<enclosure url="https://github.com/alxsmnv/gallery/releases/download/ep-2026-11-04/episode.mp3" length="20831026" type="audio/mpeg"/>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>1735</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>38</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
