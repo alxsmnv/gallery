@@ -8,7 +8,7 @@ Each episode covers the biggest AI releases, tools and trends. Then we skip the 
 Hosted by the founder of PlsAutomate.]]></description>
 		<link>https://plsautomate.com</link>
 		<generator>plsautomate pipeline</generator>
-		<lastBuildDate>Tue, 03 Nov 2026 15:01:37 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 08:08:21 GMT</lastBuildDate>
 		<atom:link href="https://alxsmnv.github.io/gallery/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[plsautomate.com]]></author>
 		<copyright><![CDATA[plsautomate.com]]></copyright>
@@ -29,6 +29,18 @@ Hosted by the founder of PlsAutomate.</itunes:summary>
 			<itunes:category text="Tech News"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46827539/46827539-1790319893671-2591ba275d696.jpg"/>
+		<item>
+			<title><![CDATA[The AI That Might Build Itself]]></title>
+			<description><![CDATA[<p>Anthropic told investors in an amended S one filing that its future models may imminently meet its own definition of dramatically accelerated, A I driven progress, while saying no current model has crossed the line. We also cover new Claude Code limits, malware that asks an A I to rank its victims, hundreds of apps hiding abusive deepfake tools, Goldman Sachs pulling coding tools from most staff, and the Meituan LongCat two point five launch.</p><p>As always, we label what is confirmed, preliminary, reported or unverified, so you know exactly how far to trust each story.</p><p>plsautomate.com</p>]]></description>
+			<link>https://plsautomate.com</link>
+			<guid isPermaLink="false">plsautomate-ai-2026-11-04</guid>
+			<dc:creator><![CDATA[plsautomate.com]]></dc:creator>
+			<pubDate>Wed, 04 Nov 2026 08:08:21 GMT</pubDate>
+			<enclosure url="https://github.com/alxsmnv/gallery/releases/download/ep-2026-11-04/episode.mp3" length="20831026" type="audio/mpeg"/>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>1735</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[The $115B Bet on Light]]></title>
 			<description><![CDATA[<p>Marvell is paying about $115 billion for a company that moves data between AI chips using light. Here’s the AI news from November 2, 2026:</p><ul><li>Marvell agrees to buy Lumentum, which makes optical interconnects, for about $115B. Investors weren’t convinced and both stocks fell.</li><li>Oracle raises $20B in shares and bonds to fund AI data centers, and its stock drops almost 9%</li><li>Anthropic’s updated IPO filing shows $16.96B in quarterly revenue and about $895B in AI infrastructure commitments</li><li>OpenAI partners with ADNOC and G42 to bring AI into oil and gas operations in the UAE</li><li>Palantir revenue grows 96%, and for the first time its US commercial sales beat its US government sales</li><li>German Chancellor Merz calls for Europe to control its own AI stack, from chips to models</li><li>The European Central Bank warns that AI valuations are a risk to financial stability</li></ul><p><strong>The takeaway:</strong> Europe wants more control over its AI, and your business can have that too. Choose where your data is processed, and keep sensitive information on infrastructure you control.</p><p>plsautomate.com</p>
