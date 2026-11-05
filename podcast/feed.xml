@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
 	<channel>
+		<itunes:new-feed-url>https://media.plsautomate.com/podcast/feed.xml</itunes:new-feed-url>
 		<title><![CDATA[AI This Week with PlsAutomate]]></title>
 		<description><![CDATA[Your daily rundown of AI news, with one question in mind: what can this actually do for your business?
 
@@ -8,7 +9,7 @@ Each episode covers the biggest AI releases, tools and trends. Then we skip the 
 Hosted by the founder of PlsAutomate.]]></description>
 		<link>https://plsautomate.com</link>
 		<generator>plsautomate pipeline</generator>
-		<lastBuildDate>Thu, 05 Nov 2026 07:28:17 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 16:05:23 GMT</lastBuildDate>
 		<atom:link href="https://alxsmnv.github.io/gallery/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[plsautomate.com]]></author>
 		<copyright><![CDATA[plsautomate.com]]></copyright>
@@ -36,12 +37,12 @@ Hosted by the founder of PlsAutomate.</itunes:summary>
 			<guid isPermaLink="false">plsautomate-ai-2026-11-05</guid>
 			<dc:creator><![CDATA[plsautomate.com]]></dc:creator>
 			<pubDate>Thu, 05 Nov 2026 07:28:17 GMT</pubDate>
-			<enclosure url="https://github.com/alxsmnv/gallery/releases/download/ep-2026-11-05/episode.mp3" length="21463920" type="audio/mpeg"/>
+			<enclosure url="https://media.plsautomate.com/podcast/episodes/2026-11-05/episode.mp3" length="21463920" type="audio/mpeg"/>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>1788</itunes:duration>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>39</itunes:episode>
-			<itunes:image href="https://alxsmnv.github.io/gallery/podcast/covers/2026-11-05.jpg"/>
+			<itunes:image href="https://media.plsautomate.com/podcast/episodes/2026-11-05/cover.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -51,7 +52,7 @@ Hosted by the founder of PlsAutomate.</itunes:summary>
 			<guid isPermaLink="false">plsautomate-ai-2026-11-04</guid>
 			<dc:creator><![CDATA[plsautomate.com]]></dc:creator>
 			<pubDate>Wed, 04 Nov 2026 08:08:21 GMT</pubDate>
-			<enclosure url="https://alxsmnv.github.io/gallery/podcast/audio/2026-11-04.mp3" length="20831026" type="audio/mpeg"/>
+			<enclosure url="https://media.plsautomate.com/podcast/episodes/2026-11-04/episode.mp3" length="20831026" type="audio/mpeg"/>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>1735</itunes:duration>
 			<itunes:season>1</itunes:season>
