@@ -9,5 +9,17 @@
     "duration": 1735,
     "season": 1,
     "episode": 38
+  },
+  {
+    "guid": "plsautomate-ai-2026-11-05",
+    "title": "OpenAI Says One Run Found 948 Ways to Root Linux",
+    "description": "<p>OpenAI says one A I run, costing about one point two million dollars, produced working exploits and candidate patches for 948 Linux kernel privilege escalation bugs. We separate what is confirmed from what is company reported, and ask why only a small share are fixed so far.</p><p>We also cover Texas voters and the data center backlash, a disputed account of a hacker startup and Anthropic, and Claude credited with finding flaws in the Xen hypervisor.</p><p>Quick headlines include a cheaper coding model, a hardware gadget designed by A I, and a bank&#x27;s claim of big savings from self hosted models. Every story is labeled confirmed, preliminary or reported, with one practical takeaway for your business.</p><p>plsautomate.com</p><p>Chapters<br>00:00 Cold open<br>00:50 Intro<br>01:21 One run, 948 root exploits<br>10:28 Texas and the data center backlash<br>16:04 OpenAI, Anthropic and the hackers<br>19:27 Claude finds flaws in Xen<br>23:10 Quick headlines<br>26:53 The bigger picture<br>29:16 Wrap up</p>",
+    "pubDate": "Thu, 05 Nov 2026 07:28:17 GMT",
+    "url": "https://github.com/alxsmnv/gallery/releases/download/ep-2026-11-05/episode.mp3",
+    "length": 21463920,
+    "duration": 1788,
+    "season": 1,
+    "image": "https://alxsmnv.github.io/gallery/podcast/covers/2026-11-05.jpg",
+    "episode": 39
   }
 ]
